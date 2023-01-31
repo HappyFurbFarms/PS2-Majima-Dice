@@ -1,7 +1,3 @@
-Did you need this module?  No.  
-Do you want it?  Yes.
-
-What does it do?
-It adds a bean texture for Dice-So-Nice
+lol sorry i just stole the bean dice and put a funny png over it
 
 ![bean die](https://i.imgur.com/RbYTF0y.png)
